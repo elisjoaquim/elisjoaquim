@@ -2,9 +2,7 @@
 <h3 align="center">I'm a Husband, Father, Developer</h3>
 
 - 🤝 Goals **Impact the world**
-
 - 💬 Ask me about **javascript,typescript, react**
-
 - 📫 How to reach me **elisjoaquim@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
