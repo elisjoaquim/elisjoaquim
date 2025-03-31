@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Elis</h1>
-<h3 align="center">I'm a Husband, Father, Developer</h3>
+<h3 align="center">Software Engineer @ Celfocus</h3>
 
 - 🤝 Goals **Impact the world**
-- 💬 Ask me about **javascript,typescript, react**
+- 💬 Ask me about **Javascript,Typescript, React Native**
 - 📫 How to reach me **elisjoaquim@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
